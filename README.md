@@ -171,24 +171,13 @@ Environment : Jupyter Lab
 jpmorgan-quant-simulation/
 │
 ├── README.md
-│
-├── task1_gas_pricing/
-│   ├── notebook.ipynb
-│   └── Nat_Gas.csv
-│
-├── task2_contract_pricing/
-│   └── notebook.ipynb
-│
-├── task3_loan_default/
-│   ├── notebook.ipynb
-│   └── loan_data.csv
-│
-├── task4_fico_bucketing/
-│   ├── notebook.ipynb
-│   └── loan_data.csv
+├── jpmorgan_quant.ipynb        ← all 4 tasks in one notebook
+├── Nat_Gas.csv                 ← gas price data (Tasks 1 & 2)
+├── Task_3_and_4_Loan_Data.csv  ← loan data (Task 3)
+└── Task_3_and_4_Loan_Data__1_.csv  ← mortgage data (Task 4)
 ```
 
----
+
 
 ## Key Concepts Covered
 
@@ -206,4 +195,4 @@ Data Science          →  feature engineering, EDA, train/test split, scaling
 
 Built as part of the **JP Morgan Chase & Co. Quantitative Research Virtual Experience Program**.
 
-> This project was completed independently as a learning exercise in quantitative finance and machine learning.
+> This project was completed independently as a learning exercise in quantitative finance and machine learning with AI assistance (Claude by Anthropic) as a guide.
