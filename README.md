@@ -179,20 +179,6 @@ jpmorgan-quant-simulation/
 
 
 
-## Key Concepts Covered
 
-```
-Quantitative Finance  →  contract pricing, expected loss, PD modelling
-Statistics            →  regression, MLE, log-likelihood
-Machine Learning      →  logistic regression, classification, ROC-AUC
-Algorithms            →  dynamic programming, quantization
-Data Science          →  feature engineering, EDA, train/test split, scaling
-```
 
----
 
-## About
-
-Built as part of the **JP Morgan Chase & Co. Quantitative Research Virtual Experience Program**.
-
-> This project was completed independently as a learning exercise in quantitative finance and machine learning with AI assistance (Claude by Anthropic) as a guide.
